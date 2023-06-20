@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @MrAStone
-- 👀 I’m interested in Problem Solving, Helping students to code
-- 🌱 I’m currently developing skills in Python, C# and further developing coding skills for the classroom
+- @MrAStone
+- Subject Leader of Computer Science & IT Strategic Leader
+- Teacher of GCSE Computer Science
+  - Running AQA Specification 8525
+- Teacher of A-Level Computer Science
+  - Running AQA Specification 7517
+- Coding in VB.NET and C#
 
 - 📫 How to reach me astone@heckgrammar.co.uk
 
