@@ -4,7 +4,8 @@
   - Running AQA Specification 8525
 - Teacher of A-Level Computer Science
   - Running AQA Specification 7517
-- Coding in VB.NET and C#
+- Running maker club using Raspberry Pi (Pi, Pi Zero, Pi Pico) and Arduino
+- Coding in VB.NET, C# and Javascript
 
 - 📫 How to reach me astone@heckgrammar.co.uk
 
